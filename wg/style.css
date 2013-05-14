@@ -1,0 +1,28 @@
+body {
+	background: #000;
+}
+
+.gridview {
+	background: #353;
+}
+
+.gridview .box {
+	background: #222;
+	margin: 10px;
+	color: #fff;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+.gridview .featured {
+    width: 310px;
+    height: 310px;
+}
+
+.gridview .pano {
+    width: 300px;
+    height: 150px;
+}
+
+
