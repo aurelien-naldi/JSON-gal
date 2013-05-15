@@ -29,6 +29,21 @@ Running without a command will trigger a build.
 
 
 
+Depends
+-------
+
+The python script depends on
+* PIL (or Pillow)
+* pyexiv2
+
+
+The web interface includes jQuery and the following plugins:
+* hashchange
+* masonry (to layout the drid view)
+* touchSwipe (to detect some touch gestures)
+
+
+
 Licence
 -------
 
